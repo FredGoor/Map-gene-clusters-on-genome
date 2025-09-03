@@ -2,6 +2,9 @@
 
 This repository provides two Python scripts to identify functional gene clusters from DAVID annotation files and to visualize their genomic localization as **smoothed density heatmaps** with significance testing.
 
+[![DOI](https://zenodo.org/badge/1049834575.svg)](https://doi.org/10.5281/zenodo.17047999)
+
+
 ---
 
 ## ✨ Features
@@ -97,7 +100,7 @@ python GeneClusterHeatmap_KS.py
 ## 📖 Citation
 If you use these tools in your research, please cite:
 - The associated publication (once available).
-- This repository via its Zenodo DOI: **[DOI link here after Zenodo upload]**
+- This repository via its Zenodo DOI: **[https://doi.org/10.5281/zenodo.17047999]**
 
 ---
 
